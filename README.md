@@ -32,5 +32,12 @@ AI ekraninda `AI Ayar` tusundan endpoint/model degistirilebilir.
 
 ## Guvenlik notu
 
+
+LOOM LİNKİ
+https://www.loom.com/share/36c960c6e2234b05831a3f5d1b50bbaf
+
+UYGULAMA LİNKİ
+https://fizyocoach.lovable.app/dashboard
+
 - Uretimde `ALLOWED_ORIGIN` degerini `*` yerine kendi domaininiz yapin.
 - API key'i sadece `.env` dosyasinda tutun.
